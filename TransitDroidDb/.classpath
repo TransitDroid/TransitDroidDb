@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/TransitDroid2.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TransitDroid"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
